@@ -8,8 +8,11 @@ Mapbox is used to generate the map layers that generate beneath the geoJSON data
 
 [index.html](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
 This is the html that is loaded into the webpage and calling our api, js and css files to generate the visualizations.
+
 ![css call](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/css.png)
+
 ![API call](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/api.png)
+
 ![javascript call](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/logic.png)
 
 [challenge_logic.js](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
@@ -21,10 +24,15 @@ This is the styling css that helps to format our html page and fit the map to th
 ### Visualization
 
 ![Street Map Base Layer with Earthquakes and Tectonic Plates](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/streets.png)
+**Street Map Base Layer with Earthquakes and Tectonic Plates**
 ![Satellite Street Map Base Layer with Earthquakes and Tectonic Plates](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/satellite_streets.png)
+**Satellite Street Map Base Layer with Earthquakes and Tectonic Plates**
 ![Dark Map Base Layer with Earthquakes and Tectonic Plates](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/dark.png)
+**Dark Map Base Layer with Earthquakes and Tectonic Plates**
 ![Major Earthquake geoJSON Layer](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/major_earthquakes.png)
+**Major Earthquake geoJSON Layer**
 ![Tectonic Plate geoJSON Layer](https://github.com/stovepipe/Mapping_Earthquakes/blob/main/Resources/tectonic_plates.png)
+**Tectonic Plate geoJSON Layer**
 
 
 
